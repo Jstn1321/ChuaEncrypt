@@ -4729,7 +4729,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.2552 161.29 0)
 			(effects
 				(font
@@ -4970,7 +4970,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 126.6952 161.29 0)
 			(effects
 				(font
@@ -5578,7 +5578,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40ccc64a-1fa7-4ecc-8d2c-2a114192f3bb")
-		(property "Reference" "-VCC"
+		(property "Reference" "-VCC1"
 			(at 77.47 130.048 90)
 			(effects
 				(font
@@ -5629,7 +5629,7 @@
 		(instances
 			(project "ChuaCircuit"
 				(path "/076f7681-7b7c-4ede-84a6-3e9abd09d9f7"
-					(reference "-VCC")
+					(reference "-VCC1")
 					(unit 1)
 				)
 			)
@@ -5749,7 +5749,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d525c0e-0fce-4393-848b-c26ab9e84d2c")
-		(property "Reference" "+VCC"
+		(property "Reference" "+VCC1"
 			(at 56.388 130.556 90)
 			(effects
 				(font
@@ -5800,7 +5800,7 @@
 		(instances
 			(project ""
 				(path "/076f7681-7b7c-4ede-84a6-3e9abd09d9f7"
-					(reference "+VCC")
+					(reference "+VCC1")
 					(unit 1)
 				)
 			)
@@ -6208,7 +6208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 169.8752 161.29 0)
 			(effects
 				(font
@@ -6341,7 +6341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 79.7052 161.29 0)
 			(effects
 				(font
@@ -6541,7 +6541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 87.3252 161.29 0)
 			(effects
 				(font
@@ -6742,7 +6742,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 46.6852 161.29 0)
 			(effects
 				(font
@@ -7235,7 +7235,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c88e08a8-a371-48b9-baae-52bcded91c59")
-		(property "Reference" "CHUA_OUT"
+		(property "Reference" "CHUA_OUT1"
 			(at 179.705 29.21 0)
 			(effects
 				(font
@@ -7284,7 +7284,7 @@
 		(instances
 			(project ""
 				(path "/076f7681-7b7c-4ede-84a6-3e9abd09d9f7"
-					(reference "CHUA_OUT")
+					(reference "CHUA_OUT1")
 					(unit 1)
 				)
 			)
@@ -7643,7 +7643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 119.0752 161.29 0)
 			(effects
 				(font
@@ -7710,7 +7710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 39.0652 161.29 0)
 			(effects
 				(font
