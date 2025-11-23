@@ -4867,7 +4867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL084"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-14N"
 			(at 185.42 86.36 0)
 			(effects
 				(font
@@ -5239,7 +5239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL082"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-8N"
 			(at 158.75 34.29 0)
 			(effects
 				(font
@@ -5662,7 +5662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL084"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-14N"
 			(at 83.82 78.74 0)
 			(effects
 				(font
@@ -5832,7 +5832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL084"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-14N"
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -6811,7 +6811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL084"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-14N"
 			(at 166.37 91.44 0)
 			(effects
 				(font
@@ -7384,7 +7384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL084"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-14N"
 			(at 62.23 151.13 0)
 			(effects
 				(font
@@ -7558,7 +7558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:TL082"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-8N"
 			(at 144.78 149.86 0)
 			(effects
 				(font

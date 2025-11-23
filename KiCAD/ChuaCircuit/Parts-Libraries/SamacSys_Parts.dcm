@@ -18,4 +18,16 @@ K
 F http://www.ti.com/lit/ds/symlink/tl081a.pdf
 $ENDCMP
 #
+$CMP TL084CDT
+D TL084CDT, Quad Operational Amplifier 4MHz, 14-Pin SO
+K
+F https://www.st.com/resource/en/datasheet/tl084ac.pdf
+$ENDCMP
+#
+$CMP TL082CDT
+D TL082CDT, Dual Operational Amplifier 4MHz, 8-Pin SO
+K
+F https://www.st.com/resource/en/datasheet/tl082.pdf
+$ENDCMP
+#
 #End Doc Library
