@@ -6135,7 +6135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+VCC"
+		(property "Value" "VCC"
 			(at 58.42 139.7 90)
 			(effects
 				(font
