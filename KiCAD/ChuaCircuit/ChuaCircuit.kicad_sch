@@ -5678,7 +5678,7 @@
 			)
 		)
 		(property "Value" "Male_Header_1x1 2.54mm"
-			(at 76.708 132.842 90)
+			(at 83.312 132.334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
